@@ -14,7 +14,7 @@ Test cases are not always straight-forward and QA Engineers will need to act on 
 Automating test cases brings numerous benefits. Automation saves time and reduces human error. QA engineers should recognize the value in automation.
 ```
 
-```text
+```youtrack
 3) Explain how you distinguish a symptom vs. a cause when testing.
 
 Often times within the QA process, test cases fail. But why are they failing? This can be tricky. A great QA engineer is able to provide exact reasons to the developer, rather than simply saying a test case “failed”.
