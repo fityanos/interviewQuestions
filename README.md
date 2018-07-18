@@ -123,3 +123,43 @@ The best way to learn if your candidate is excited and passionate about this job
 
 It is important to hire a well rounded Test Engineer who is familiar with several different types of testing or find one who is willing to learn.
 ```
+
+
+# Job Description:
+
+```text
+QA Engineer Responsibilities Includes:
+Participate and review requirements, specifications during sprint planning and provide any extra information or details in which will ensure test coverage.
+Creating detailed, comprehensive and well-structured test plans and test cases.
+Estimating, prioritizing, planning and coordinating testing activities during SDLC.
+Identify, troubleshoot, and document issues thoroughly during bugs tracking.
+Perform Regression, Functional, Usability, Compatibility testing to support development team.
+Provide full support for development team whenever needed for reproducing purposes.
+Provide Automation scripts for assigned tickets/tasks.
+Manage the respective team and act as a problem solver for.
+Ability to distribute tasks as per defined priority and severity metrics and follow up
+
+Desired skills:
+
+4+ Year of solid experience in QA
+Strong knowledge of Software QA methodologies, testing types, tools and processes.
+Hands-on experience with both gray box and black box testing.
+Experience in writing clear, concise and comprehensive test plans and test cases.
+Appium knowledge and hands-on experience.
+codeception PHP framework is a huge plus.
+Element locating methodologies.
+GitHub knowledge and hands-on experience.
+Analytical thinking.
+Attention to details.
+Problem analysis and problem solving.
+Teamwork.
+Project tracking tools
+Manual and automated experience.
+CI and CD tools and hands-on
+Travel and Tourism experience is a plus
+
+
+Education/University degree:
+Degree in Computer Science, Engineering or a related subject.
+
+```
