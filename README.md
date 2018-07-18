@@ -3,6 +3,205 @@
 
 
 ```text
+Introduction:
+Interviewer introduction && vacant role that we are interviewing for
+Candidate introduction && shorten history flashback
+
+https://www.mytectra.com/interview-question/top-appium-interview-questions-2017/
+
+https://www.testingexcellence.com/agile-testing-interview-questions/
+
+
+Creativity & Innovations:
+Developing solutions for potential problems OR new ideas (looking @ things from 2nd perspective).
+
+Potentials questions:
+1- What’s your best idea you came up in your current role. (this question leads to):
+What was the outcome for your idea?
+Did you face any issues during the implementation for this idea? (this question leads to):
+             How did you overcome this problem/issue?
+Tell me about your automation frameworks
+
+
+=============================================
+People & Management:
+Ability to set clear achievable objectives for your team and how to motivate your members.
+
+Potentials questions:
+1- Please describe me how you set goals for your team members. (this question leads to):
+Could you please help by giving an example for a real life scenario?
+Did you ever get a negative feedback? And how you did overcome that?
+
+
+=============================================
+Customer/Client Focus:
+Prepared to give 101% effort at some point to achieve company's goal. (extra mile)
+
+Potentials questions:
+1- At some critical point are you willing to that extra push to reach team goal?. (this question leads to):
+So when you say yes? Then you have some points you can help with, could you please help by giving an example?
+What factors you think will make a project passed to LIVE stage?
+
+
+
+Have you been involved in test estimation and how do you do it?
+What is your acceptance criteria
+What tools and why
+
+
+
+
+
+
+
+
+MAIN QUESTIONS (General testing):
+=============================================
+FIRST
+What type of test you perform for a web based application
+You came across TESTING_TYPE, can you help by giving an example for TESTING_TYPE scenario?
+--------------------------
+SECOND
+Main software testing challenges
+Lag on BR & TR knowledge
+Unstable testing environments
+Different developers for same fix
+Delay in delivery for fix
+Requirements changes (late stages).
+--------------------------
+THIRD
+Tell me about your QA roles in SDLC (leads to question):
+When QA will be involved?
+--------------------------
+FOURTH
+Login is not working? What’s your troubleshooting will be 
+My answer will be near by:
+1- Try to reproduce the issue on required environment
+2- Check console while testing for errors to stand if it’s a FE or BE issue
+3- In case of FE, then compatibility testing for bug reporting accuracy 
+4- Create a ticket and assign a priority and severity depending on the situation.
+--------------------------
+FIFTH
+How to handle a situation in which you don’t have time for full regression testing?
+My answer will be near by:
+1- i will perform a quick ad-hoc test to stand for the actual implementation for the doc that i was reading
+2- first test to perform is a sanity test in which is the test to cover product’s blocker and critical areas
+3- UI checks while running the tests
+--------------------------
+SEXTH
+Equivalence and boundaries testing for an input field 1-10 entries
+My answer will be:
+Eq analysis will generate 3 test cases(0-random-11)
+Bo analysis will generate 3 set of test cases (1-10) (0-9) (2-11)
+
+
+
+
+
+
+
+
+
+--------------------------
+SEVENTH
+Help me with some special test cases for mobile App product?
+
+App behavior in background
+App behavior with some heavy other Apps
+Simulate end users update scenario
+App behavior interrupted with a phone call
+App integration test with related web platform
+App performance such as speed...etc
+App behavior while connection lost
+App behavior using 3/4G connection
+App behavior using low speed connection
+--------------------------
+EIGHTH
+Tell me about verification and validation (leads to)
+Can you help by giving some examples?
+What impact did these knowledge make for QA officer?
+--------------------------
+NINTH
+How do you overcome bad BUGs fixes (deploying fix many times with same results)
+Will you help developer? Yes? How?
+--------------------------
+TEN
+What is the most difficult change you made in your QA job
+How did you overcome this?
+--------------------------
+ELEVEN
+Scenario and please give me a test case for each testing type
+How did you overcome this?
+
+--------------------------
+TWELVE
+What benefits as QA engineers we can get from traceability matrix
+Mainly we can reach higher test coverage as we are addressing a test cases for each BR and TR through this matrix.
+--------------------------
+THIRTEEN
+ALPHA && BETA // What is compatibility testing??
+Etc…
+--------------------------
+FOURTEEN
+Give me your test cases for a basic login form
+Negative testing
+Positive testing
+Fields edges testing
+Invalid entries
+Spacing trimming
+
+MAIN QUESTIONS (Automation):
+=============================================
+FIRST
+What tools are you using for automation testing and daily tech
+-----------------------------------
+SECOND
+Main challenges in automation
+Test scripts maintainability
+Lag of qualified testers
+Automation will find loads of issues and BUGs
+-----------------------------------
+THIRD
+What kind of assertion lib you are using to assert your testing?
+BDD?  chai
+-----------------------------------
+FOURTH
+Are you familiar with selenium? What is it?
+Selenium is a automation tool in which you can write your tests using different programming languages
+-----------------------------------
+FIFTH
+How you can locate elements for writing test scripts
+-----------------------------------
+SIXTH
+Can i read your test scripts easily
+My answer will be near by:
+Yes, my scripts following some standards such as comments/annotations for each code block or test scenario 
+-----------------------------------
+Seventh
+What criteria do you consider for automation
+1- How often does the test need to be executed? i.e. is that going to be a regression test? Sometimes the test will need to be executed once, but with a large set of data
+2- How much time does automating this test will save me so that I can use my time in exploratory testing
+3- How important is the test to the business; i.e. is the test scenario a typical user journey through the application
+4- How complex is it to automate the test and how likely is it that the complexity doesn’t cause many false positives which increases results analysis time?
+5- How likely is it that this test catches a defect?
+
+-----------------------------------
+Eight
+What tests should not be automated
+1- Usability Testing – at times this can be an impossible task to perform by automation as the computer cannot efficiently judge if the system is of any use to its users
+2- Tests that only need to be executed once – unless the same test needs to be executed for a large dataset then it makes sense to automate
+3- Tests without predictable results – test automation should give us confidence in the results of the tests. If there are intermittent failures then the tests cannot be reliable and cannot be dependent on
+4- Tests that need to be verified visually
+-----------------------------------
+How you can resolve a conflict in git
+How to create a .git directory in you local
+What’s git diff function
+Difference between git diff and git status
+
+```
+
+
+```text
 1) How well do you handle ambiguity?
 
 Test cases are not always straight-forward and QA Engineers will need to act on their personal judgement. They need to feel comfortable with ambiguity.
